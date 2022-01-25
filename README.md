@@ -1,5 +1,5 @@
 # Azure Synapse Samples
-A collection of samples for Azure Synapse.
+A collection of scripts for Azure Synapse.
 ## Description
 Samples organized by coding language.
 ## Samples
