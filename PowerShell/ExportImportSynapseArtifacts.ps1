@@ -36,11 +36,11 @@ Notes:  Cmdlets used for export & import are in az.synapse module
 Param(
     [Parameter()]
     [string] 
-    $WorkspaceName = 'testworkspace3344',
+    $WorkspaceName = 'yourWorkspaceName',
 
     [Parameter()]
     [string] 
-    $SubscriptionName = 'Subscription 1 - Microsoft Azure Sponsorship 2'
+    $SubscriptionName = 'yourSubscriptionName'
 
 )
 
