@@ -8,7 +8,7 @@ Notes:  Cmdlets used for export & import are in az.synapse module
         How to find cmdlets needed to customize script:
         Search above URL for:
         Get-AzSynapse[artifactName]      - enumerates artifact types
-        Set-AzSynapse[artifactName]      - import to storage from workspace.  set is an alias for import.  
+        Set-AzSynapse[artifactName]      - import to workspace from storage.  set is an alias for import.  
         Export-AzSynapse[artifactName]   - exports from workspace to storage
 
         Export cmdlets are currently (Jan 2022) available for only:  KqlScripts, Notebooks, SparkConfiguration, SqlScript 
